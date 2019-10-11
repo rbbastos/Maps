@@ -38,6 +38,7 @@ public class MainActivity extends AppCompatActivity implements OnMapReadyCallbac
     //Main Source: https://docs.mapbox.com/help/tutorials/android-location-listening/
 
     private SharedPreferences sharedPrefs;
+    private String str;
     // Variables needed to initialize a mapboxMap
     private MapboxMap mapboxMap;
     private MapView mapView;
@@ -55,6 +56,11 @@ public class MainActivity extends AppCompatActivity implements OnMapReadyCallbac
     //private LocationLayerPlugin locationLayerPlugin;
     //private Location originLocation;
 
+    //COmentdfddddddddddddddddddddddddddddddddddd
+    //COmentdfddddddddddddddddddddddddddddddddddd
+    //COmentdfddddddddddddddddddddddddddddddddddd
+    //COmentdfddddddddddddddddddddddddddddddddddd
+    //COmentdfddddddddddddddddddddddddddddddddddd
 
 
     @Override
