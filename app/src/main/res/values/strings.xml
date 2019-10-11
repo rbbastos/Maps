@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Maps</string>
+    <string name="access_token">pk.eyJ1IjoicmJiYXN0b3MiLCJhIjoiY2sxY2pjenVhMnlncTNicGthcGN4d3A1aiJ9.4T9m1J4lD6eTH_38CUtl7A</string>
+    <string name="user_location_permission_explanation">Mapbox will not work, if permission is denied.</string>
+    <string name="user_location_permission_not_granted">Permission not granted.</string>
+    <string name="new_location">New lat: %1$s New longitude: %2$s</string>
+</resources>
